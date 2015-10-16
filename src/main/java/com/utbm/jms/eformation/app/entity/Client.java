@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.utbm.jsm.eformation.app.entity;
+package com.utbm.jms.eformation.app.entity;
 
 /**
  *
